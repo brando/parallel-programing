@@ -94,7 +94,7 @@ void *lahka_choroba( void *ptr ) {
 // tazko chori ide domov
 void volno_tazko_chory(int i) {
     printf("tazko chory pacient %d je doma\n", i);
-    sleep(5);
+    sleep(2.5);
 }
 
 void vysetrenie_tazko_choreho(int i) {

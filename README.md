@@ -7,7 +7,7 @@ Vo vyvhodnej Europe, v malej dedinke prepukla epidemia a nakazilo sa 10 ludi. Se
 
 2. Zabezpecte, aby do miestnosti k lekarovi mohli vojst maximalne dvaja lahko postihnuti pacienti, a ak v cakarni caka pacient z vaznym postihnutim, tak lekar dovysetruje pritimnich pacientov v miestnosti a pacient z vaznym postinutim ma prednst pred ostatnymi. Pocet pacientov v miestnosti s vaznym ochorenim mozu byt aj 3 ale vysetruje sa iba jeden.
 
-3. Osetrite v programe spravne ukoncenie simulacie po uplynuti stanoveneho casu, tak ze ti pacienti co su este v cakarni, tych doktor dovysetruje. 
+3. Osetrite v programe spravne ukoncenie simulacie po uplynuti stanoveneho casu, tak ze ti pacienti co su este v cakarni, tych	 doktor dovysetruje. 
 
 Poznamky:
 - na synchronizaciu je mozne pouzit mutexy, podmienene premenne alebo semafory
