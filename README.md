@@ -1,7 +1,7 @@
 # parallel-programing
 
 Simulujte nasledujucu situaciu.
-Vo vyvhodnej Europe, v malej dedinke prepukla epidemia a nakazilo sa 10 ludi. Sedem z nich maju len mensiu nemoc, no traja ludia maju vazne problemi. Aby sa nakazilo este viac ludi, tak sa vlada rozhodla tychto 10 ludi prestahovat do vedlasej dedinky, kde uz nikto dlhsie nebyval. Tito ludia musia kazdy den chodit na zdravotne stredisko v pravidelnych intervaloch (lahko chori v simulacii 3s a takzko chori 2.5s), kde ordinuje jeden doktor. Osetrenie jedneho pacienta trva urcity cas (lahko choreho v simulacii 0.5s a tazko choreho 1) a potom moze ist domov. Cela simulacia trva 20s.
+Vo vyvhodnej Europe, v malej dedinke prepukla epidemia a nakazilo sa 10 ludi. Sedem z nich maju len mensiu nemoc, no traja ludia maju vazne problemy. Aby sa nenakazilo este viac ludi, tak sa vlada rozhodla tychto 10 ludi prestahovat do vedlasej dedinky, kde uz nikto dlhsie nebyval. Tito ludia musia kazdy den chodit na zdravotne stredisko v pravidelnych intervaloch (lahko chori v simulacii 3s a takzko chori 2.5s), kde ordinuje jeden doktor. Osetrenie jedneho pacienta trva urcity cas (lahko choreho v simulacii 0.5s a tazko choreho 1) a potom moze ist domov. Cela simulacia trva 20s.
 
 1. Doplnte do programu pocitadlo pocitajuce, kolko krat boli vysetreni pacienti s velkymi ocherenim a tiez pocitadlo ratajucem kolko krat boli vysetreni pacienti len sa malou nemocou.
 
